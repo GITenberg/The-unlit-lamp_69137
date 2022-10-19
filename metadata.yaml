@@ -1,0 +1,33 @@
+_repo: The-unlit-lamp_69137
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, Radclyffe
+    aliases:
+    - Hall, John
+    - Hall, Marguerite Radclyffe
+    - Radclyffe-Hall, Marguerite
+    birthdate: 1886
+    deathdate: 1943
+    gutenberg_agent_id: '45238'
+    url: http://www.gutenberg.org/2009/agents/45238
+    wikipedia: https://en.wikipedia.org/wiki/Radclyffe_Hall
+description: ''
+gutenberg_issued: '2022-10-12'
+identifiers:
+  gutenberg: '69137'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/007927936
+pgterms:marc905: 20220909092237radclyffeh
+pgterms:marc906: '1924'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: UK :Cassell,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The unlit lamp
+url: http://www.gutenberg.org/ebooks/69137
